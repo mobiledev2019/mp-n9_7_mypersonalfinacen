@@ -1,0 +1,4 @@
+#Wed Jun 19 21:53:53 ICT 2019
+base.0=D\:\\source code\\mp-N9_6_Mypersonalfinacen-master\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
